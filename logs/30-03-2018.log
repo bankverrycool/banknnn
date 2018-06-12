@@ -1,0 +1,39 @@
+[02: 30: 00] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/admin/check_admin HTTP/1.1 [status]: 200 [response-time]: 575.352 ms [client]: itti_Rich/4 CFNetwork/893.14 Darwin/17.3.0
+[02: 30: 00] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/admin/check_admin HTTP/1.1 [status]: 200 [response-time]: 17.333 ms [client]: itti_Rich/4 CFNetwork/893.14 Darwin/17.3.0
+[02: 30: 00] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/admin/admin_login HTTP/1.1 [status]: 200 [response-time]: 139.273 ms [client]: itti_Rich/4 CFNetwork/893.14 Darwin/17.3.0
+[02: 30: 00] [ip]: ::ffff:192.168.1.101 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 464.831 ms [client]: okhttp/3.6.0
+[02: 30: 00] [ip]: ::ffff:192.168.1.101 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 12.676 ms [client]: okhttp/3.6.0
+[02: 30: 00] [ip]: ::ffff:192.168.1.101 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 329.736 ms [client]: okhttp/3.6.0
+[02: 30: 00] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 227.612 ms [client]: okhttp/3.6.0
+[02: 30: 00] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 175.896 ms [client]: okhttp/3.6.0
+[02: 30: 00] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 2374.628 ms [client]: okhttp/3.6.0
+[02: 30: 00] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 1908.377 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 405.788 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 97.450 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: POST [url]: /api/v1/user/user_login HTTP/1.1 [status]: 200 [response-time]: 118.919 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 46.025 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 41.519 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 344.816 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 249.020 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 33.790 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 35.450 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 95.553 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 88.918 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 107.788 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 91.568 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 43.337 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 34.028 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 38.686 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 43.489 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 28.360 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 32.112 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 30.483 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 30.687 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 7.948 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 6.340 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 4.716 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 6.279 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 25.858 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 20.233 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 4.577 ms [client]: okhttp/3.6.0
+[04: 22: 46] [ip]: ::ffff:192.168.1.101 - [method]: GET [url]: /api/v1/banner/get_banner HTTP/1.1 [status]: 200 [response-time]: 3.344 ms [client]: okhttp/3.6.0

@@ -1,0 +1,116 @@
+[03: 24: 36] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/user/user_register HTTP/1.1 [status]: 200 [response-time]: 11.306 ms [client]: PostmanRuntime/7.1.1
+[03: 29: 42] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/user/user_register HTTP/1.1 [status]: 200 [response-time]: 16.018 ms [client]: PostmanRuntime/7.1.1
+[03: 29: 42] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/create_news HTTP/1.1 [status]: 200 [response-time]: 1.356 ms [client]: PostmanRuntime/7.1.1
+[03: 49: 52] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/create_news HTTP/1.1 [status]: 200 [response-time]: 9.782 ms [client]: PostmanRuntime/7.1.1
+[03: 55: 50] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/create_news HTTP/1.1 [status]: 200 [response-time]: 5.929 ms [client]: PostmanRuntime/7.1.1
+[03: 55: 50] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/update_news HTTP/1.1 [status]: 200 [response-time]: 7.309 ms [client]: PostmanRuntime/7.1.1
+[03: 59: 28] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/create_news HTTP/1.1 [status]: 200 [response-time]: 2.593 ms [client]: PostmanRuntime/7.1.1
+[03: 59: 28] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/update_news HTTP/1.1 [status]: 200 [response-time]: 0.329 ms [client]: PostmanRuntime/7.1.1
+[03: 59: 28] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/update_news HTTP/1.1 [status]: 200 [response-time]: 1.329 ms [client]: PostmanRuntime/7.1.1
+[03: 59: 28] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/admin/admin_login HTTP/1.1 [status]: 200 [response-time]: 9.706 ms [client]: PostmanRuntime/7.1.1
+[04: 00: 12] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/admin/admin_login HTTP/1.1 [status]: 200 [response-time]: 7.506 ms [client]: PostmanRuntime/7.1.1
+[04: 00: 12] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/update_news HTTP/1.1 [status]: 200 [response-time]: 7.666 ms [client]: PostmanRuntime/7.1.1
+[04: 00: 12] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/create_news HTTP/1.1 [status]: 200 [response-time]: 3.161 ms [client]: PostmanRuntime/7.1.1
+[04: 06: 17] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/category/get_category HTTP/1.1 [status]: - [response-time]: - ms [client]: PostmanRuntime/7.1.1
+[04: 07: 36] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/category/get_category HTTP/1.1 [status]: 200 [response-time]: 7.903 ms [client]: PostmanRuntime/7.1.1
+[04: 07: 59] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/category/get_category HTTP/1.1 [status]: 200 [response-time]: 7.764 ms [client]: PostmanRuntime/7.1.1
+[04: 08: 13] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/category/get_category HTTP/1.1 [status]: 200 [response-time]: 7.806 ms [client]: PostmanRuntime/7.1.1
+[05: 57: 04] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/user/user_register HTTP/1.1 [status]: 200 [response-time]: 7.281 ms [client]: PostmanRuntime/7.1.1
+[05: 57: 04] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/user/user_register HTTP/1.1 [status]: 200 [response-time]: 7.069 ms [client]: PostmanRuntime/7.1.1
+[05: 57: 04] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/news/get_news HTTP/1.1 [status]: 404 [response-time]: 1.656 ms [client]: PostmanRuntime/7.1.1
+[06: 08: 08] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/create_news HTTP/1.1 [status]: 200 [response-time]: 17.609 ms [client]: PostmanRuntime/7.1.1
+[06: 08: 08] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/update_news HTTP/1.1 [status]: 200 [response-time]: 1.850 ms [client]: PostmanRuntime/7.1.1
+[06: 12: 23] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/news/get_news HTTP/1.1 [status]: 200 [response-time]: 14.148 ms [client]: PostmanRuntime/7.1.1
+[08: 00: 44] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/news/get_news HTTP/1.1 [status]: 200 [response-time]: 13.317 ms [client]: PostmanRuntime/7.1.1
+[08: 00: 44] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate HTTP/1.1 [status]: 200 [response-time]: 0.736 ms [client]: PostmanRuntime/7.1.1
+[08: 05: 19] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate HTTP/1.1 [status]: 200 [response-time]: 15.099 ms [client]: PostmanRuntime/7.1.1
+[08: 18: 45] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/get_content_news HTTP/1.1 [status]: 200 [response-time]: 9.603 ms [client]: PostmanRuntime/7.1.1
+[08: 18: 45] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/get_content_news HTTP/1.1 [status]: 200 [response-time]: 2.704 ms [client]: PostmanRuntime/7.1.1
+[08: 19: 42] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/get_content_news HTTP/1.1 [status]: 404 [response-time]: 2.675 ms [client]: PostmanRuntime/7.1.1
+[08: 19: 42] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/news/get_content_news HTTP/1.1 [status]: 404 [response-time]: 0.784 ms [client]: PostmanRuntime/7.1.1
+[08: 19: 55] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/news/get_content_news/8 HTTP/1.1 [status]: 404 [response-time]: 8.061 ms [client]: PostmanRuntime/7.1.1
+[08: 20: 15] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/news/get_content_news/8 HTTP/1.1 [status]: 200 [response-time]: 10.594 ms [client]: PostmanRuntime/7.1.1
+[08: 46: 02] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/create_news HTTP/1.1 [status]: 500 [response-time]: 24.374 ms [client]: PostmanRuntime/7.1.1
+[08: 47: 00] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/create_news HTTP/1.1 [status]: 200 [response-time]: 15.072 ms [client]: PostmanRuntime/7.1.1
+[08: 51: 34] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/admin/admin_login HTTP/1.1 [status]: 200 [response-time]: 9.289 ms [client]: PostmanRuntime/7.1.1
+[08: 51: 34] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/news/get_news_admin HTTP/1.1 [status]: - [response-time]: - ms [client]: PostmanRuntime/7.1.1
+[08: 52: 37] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/news/get_news_admin HTTP/1.1 [status]: 200 [response-time]: 9.502 ms [client]: PostmanRuntime/7.1.1
+[09: 02: 32] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/admin/admin_login HTTP/1.1 [status]: 200 [response-time]: 22.221 ms [client]: PostmanRuntime/7.1.1
+[09: 02: 32] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/admin/admin_login HTTP/1.1 [status]: 200 [response-time]: 1.236 ms [client]: PostmanRuntime/7.1.1
+[09: 02: 32] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/admin/admin_login HTTP/1.1 [status]: 200 [response-time]: 1.812 ms [client]: PostmanRuntime/7.1.1
+[09: 02: 32] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/category/get_category HTTP/1.1 [status]: 200 [response-time]: 2.952 ms [client]: PostmanRuntime/7.1.1
+[09: 02: 32] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate HTTP/1.1 [status]: 200 [response-time]: 13.489 ms [client]: PostmanRuntime/7.1.1
+[09: 02: 32] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate HTTP/1.1 [status]: 200 [response-time]: 0.588 ms [client]: PostmanRuntime/7.1.1
+[09: 02: 32] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate HTTP/1.1 [status]: 200 [response-time]: 2.142 ms [client]: PostmanRuntime/7.1.1
+[09: 02: 32] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/news/get_news_admin HTTP/1.1 [status]: 200 [response-time]: 6.040 ms [client]: PostmanRuntime/7.1.1
+[09: 13: 56] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate HTTP/1.1 [status]: 200 [response-time]: 5.046 ms [client]: PostmanRuntime/7.1.1
+[09: 13: 56] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/admin/admin_login HTTP/1.1 [status]: 200 [response-time]: 12.904 ms [client]: PostmanRuntime/7.1.1
+[09: 13: 56] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 5.309 ms [client]: PostmanRuntime/7.1.1
+[09: 13: 56] [ip]: ::ffff:192.168.1.106 - [method]: GET [url]: /api/v1/category/get_category HTTP/1.1 [status]: 200 [response-time]: 145.447 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+[09: 13: 56] [ip]: ::ffff:192.168.1.106 - [method]: GET [url]: /api/v1/category/get_category HTTP/1.1 [status]: 200 [response-time]: 21.223 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[09: 13: 56] [ip]: ::ffff:192.168.1.106 - [method]: GET [url]: /api/v1/category/get_category HTTP/1.1 [status]: 304 [response-time]: 16.744 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[09: 13: 56] [ip]: ::ffff:192.168.1.106 - [method]: GET [url]: /api/v1/category/get_category HTTP/1.1 [status]: 304 [response-time]: 12.601 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[09: 13: 56] [ip]: ::ffff:192.168.1.106 - [method]: GET [url]: /api/v1/category/get_category HTTP/1.1 [status]: 304 [response-time]: 19.805 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[09: 13: 56] [ip]: ::ffff:192.168.1.106 - [method]: GET [url]: /api/v1/news/get_news HTTP/1.1 [status]: 200 [response-time]: 100.191 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+[09: 13: 56] [ip]: ::ffff:127.0.0.1 - [method]: GET [url]: /api/v1/news/get_news_admin HTTP/1.1 [status]: 200 [response-time]: 23.336 ms [client]: PostmanRuntime/7.1.1
+[09: 13: 56] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 14.546 ms [client]: PostmanRuntime/7.1.1
+[09: 13: 56] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 11.206 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[09: 13: 56] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 2.086 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[09: 13: 56] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 0.378 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[09: 13: 56] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 27.337 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[09: 13: 56] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 3.629 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[09: 13: 56] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 7.465 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[09: 13: 56] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 10.351 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+[09: 13: 56] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 5.504 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+[09: 13: 56] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 12.389 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[09: 13: 56] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 4.674 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[09: 13: 56] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 9.357 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[09: 13: 56] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 3.682 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[09: 13: 56] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 4.952 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+[09: 13: 56] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 3.623 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 29: 14] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 32.223 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 29: 14] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 13.728 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+[15: 29: 14] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 42.998 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 29: 14] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 10.753 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+[15: 34: 39] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 124.514 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 34: 39] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 43.960 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 34: 39] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 17.756 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 34: 39] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 23.761 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 41: 14] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 25.723 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 41: 14] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 5.833 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 43: 19] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 23.606 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 43: 19] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 8.647 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 43: 19] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 3.796 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: GET [url]: /api/v1/category/get_category HTTP/1.1 [status]: 200 [response-time]: 55.940 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 16.356 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: GET [url]: /api/v1/category/get_category HTTP/1.1 [status]: 304 [response-time]: 2.437 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 2.344 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: GET [url]: /api/v1/category/get_category HTTP/1.1 [status]: 304 [response-time]: 11.385 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 12.592 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: GET [url]: /api/v1/category/get_category HTTP/1.1 [status]: 304 [response-time]: 5.534 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 6.310 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: GET [url]: /api/v1/category/get_category HTTP/1.1 [status]: 304 [response-time]: 0.975 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 2.288 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: GET [url]: /api/v1/category/get_category HTTP/1.1 [status]: 304 [response-time]: 5.633 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 4.765 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 1.862 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: GET [url]: /api/v1/category/get_category HTTP/1.1 [status]: 304 [response-time]: 7.405 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 5.430 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/create_news HTTP/1.1 [status]: 200 [response-time]: 178.184 ms [client]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: GET [url]: /api/v1/category/get_category HTTP/1.1 [status]: 304 [response-time]: 1.083 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 4.746 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: GET [url]: /api/v1/category/get_category HTTP/1.1 [status]: 304 [response-time]: 1.500 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 4.139 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 4.078 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 2.209 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 3.006 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 2.117 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: GET [url]: /api/v1/category/get_category HTTP/1.1 [status]: 304 [response-time]: 1.231 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 1.853 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/create_news HTTP/1.1 [status]: 500 [response-time]: 13.059 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: GET [url]: /api/v1/category/get_category HTTP/1.1 [status]: 304 [response-time]: 1.239 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 2.137 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/create_news HTTP/1.1 [status]: 200 [response-time]: 4.920 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 5.267 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/create_news HTTP/1.1 [status]: 200 [response-time]: 5.780 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0
+[15: 48: 00] [ip]: ::ffff:192.168.1.106 - [method]: POST [url]: /api/v1/news/get_news_from_id_cate_admin HTTP/1.1 [status]: 200 [response-time]: 3.789 ms [client]: itti_Rich/1 CFNetwork/893.14 Darwin/17.3.0

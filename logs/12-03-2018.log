@@ -1,0 +1,14 @@
+[06: 31: 05] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/user/user_register HTTP/1.1 [status]: 200 [response-time]: 18.858 ms [client]: PostmanRuntime/7.1.1
+[06: 39: 54] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/admin/admin_login HTTP/1.1 [status]: 404 [response-time]: 2.042 ms [client]: PostmanRuntime/7.1.1
+[06: 42: 19] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/admin/admin_login HTTP/1.1 [status]: 200 [response-time]: 23.572 ms [client]: PostmanRuntime/7.1.1
+[06: 42: 19] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/admin/admin_login HTTP/1.1 [status]: 200 [response-time]: 1.339 ms [client]: PostmanRuntime/7.1.1
+[06: 42: 36] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/admin/admin_login HTTP/1.1 [status]: 200 [response-time]: 5.127 ms [client]: PostmanRuntime/7.1.1
+[06: 42: 36] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/admin/admin_login HTTP/1.1 [status]: 200 [response-time]: 3.004 ms [client]: PostmanRuntime/7.1.1
+[06: 42: 36] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/admin/admin_login HTTP/1.1 [status]: 200 [response-time]: 0.957 ms [client]: PostmanRuntime/7.1.1
+[06: 42: 36] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/admin/admin_login HTTP/1.1 [status]: 200 [response-time]: 1.386 ms [client]: PostmanRuntime/7.1.1
+[06: 42: 59] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/admin/admin_login HTTP/1.1 [status]: 200 [response-time]: 9.323 ms [client]: PostmanRuntime/7.1.1
+[06: 43: 11] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/admin/admin_login HTTP/1.1 [status]: 200 [response-time]: 7.156 ms [client]: PostmanRuntime/7.1.1
+[06: 43: 11] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/admin/admin_login HTTP/1.1 [status]: 200 [response-time]: 1.494 ms [client]: PostmanRuntime/7.1.1
+[06: 45: 09] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/admin/admin_login HTTP/1.1 [status]: 200 [response-time]: 7.098 ms [client]: PostmanRuntime/7.1.1
+[06: 51: 27] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/admin/admin_login HTTP/1.1 [status]: 200 [response-time]: 5.703 ms [client]: PostmanRuntime/7.1.1
+[06: 51: 27] [ip]: ::ffff:127.0.0.1 - [method]: POST [url]: /api/v1/admin/admin_login HTTP/1.1 [status]: 200 [response-time]: 1.271 ms [client]: PostmanRuntime/7.1.1
